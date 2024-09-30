@@ -1,0 +1,30 @@
+https://vestibular.brasilescola.uol.com.br/banco-de-redacoes/21912
+HTTPSConnectionPool(host='vestibular.brasilescola.uol.com.br', port=443): Max retries exceeded with url: /banco-de-redacoes/21912 (Caused by ConnectTimeoutError(<urllib3.connection.HTTPSConnection object at 0x0000022DEB45B9D0>, 'Connection to vestibular.brasilescola.uol.com.br timed out. (connect timeout=None)'))
+https://vestibular.brasilescola.uol.com.br/banco-de-redacoes/21864
+HTTPSConnectionPool(host='vestibular.brasilescola.uol.com.br', port=443): Max retries exceeded with url: /banco-de-redacoes/21864 (Caused by ConnectTimeoutError(<urllib3.connection.HTTPSConnection object at 0x0000022DEB45BB20>, 'Connection to vestibular.brasilescola.uol.com.br timed out. (connect timeout=None)'))
+https://vestibular.brasilescola.uol.com.br/banco-de-redacoes/21518
+HTTPSConnectionPool(host='vestibular.brasilescola.uol.com.br', port=443): Max retries exceeded with url: /banco-de-redacoes/21518 (Caused by ConnectTimeoutError(<urllib3.connection.HTTPSConnection object at 0x0000022DEB8C66B0>, 'Connection to vestibular.brasilescola.uol.com.br timed out. (connect timeout=None)'))
+https://vestibular.brasilescola.uol.com.br/banco-de-redacoes/21526
+HTTPSConnectionPool(host='vestibular.brasilescola.uol.com.br', port=443): Max retries exceeded with url: /banco-de-redacoes/21526 (Caused by ConnectTimeoutError(<urllib3.connection.HTTPSConnection object at 0x0000022DEB8C5660>, 'Connection to vestibular.brasilescola.uol.com.br timed out. (connect timeout=None)'))
+https://vestibular.brasilescola.uol.com.br/banco-de-redacoes/21533
+HTTPSConnectionPool(host='vestibular.brasilescola.uol.com.br', port=443): Max retries exceeded with url: /banco-de-redacoes/21533 (Caused by ConnectTimeoutError(<urllib3.connection.HTTPSConnection object at 0x0000022DEB8C6C20>, 'Connection to vestibular.brasilescola.uol.com.br timed out. (connect timeout=None)'))
+https://vestibular.brasilescola.uol.com.br/banco-de-redacoes/21476
+HTTPSConnectionPool(host='vestibular.brasilescola.uol.com.br', port=443): Max retries exceeded with url: /banco-de-redacoes/21476 (Caused by ConnectTimeoutError(<urllib3.connection.HTTPSConnection object at 0x0000022DEBB54670>, 'Connection to vestibular.brasilescola.uol.com.br timed out. (connect timeout=None)'))
+https://vestibular.brasilescola.uol.com.br/banco-de-redacoes/21513
+HTTPSConnectionPool(host='vestibular.brasilescola.uol.com.br', port=443): Max retries exceeded with url: /banco-de-redacoes/21513 (Caused by ConnectTimeoutError(<urllib3.connection.HTTPSConnection object at 0x0000022DEBB57EE0>, 'Connection to vestibular.brasilescola.uol.com.br timed out. (connect timeout=None)'))
+https://vestibular.brasilescola.uol.com.br/banco-de-redacoes/21552
+HTTPSConnectionPool(host='vestibular.brasilescola.uol.com.br', port=443): Max retries exceeded with url: /banco-de-redacoes/21552 (Caused by ConnectTimeoutError(<urllib3.connection.HTTPSConnection object at 0x0000022DEBB566B0>, 'Connection to vestibular.brasilescola.uol.com.br timed out. (connect timeout=None)'))
+https://vestibular.brasilescola.uol.com.br/banco-de-redacoes/21480
+HTTPSConnectionPool(host='vestibular.brasilescola.uol.com.br', port=443): Max retries exceeded with url: /banco-de-redacoes/21480 (Caused by ConnectTimeoutError(<urllib3.connection.HTTPSConnection object at 0x0000022DEB239C00>, 'Connection to vestibular.brasilescola.uol.com.br timed out. (connect timeout=None)'))
+https://vestibular.brasilescola.uol.com.br/banco-de-redacoes/21558
+HTTPSConnectionPool(host='vestibular.brasilescola.uol.com.br', port=443): Max retries exceeded with url: /banco-de-redacoes/21558 (Caused by ConnectTimeoutError(<urllib3.connection.HTTPSConnection object at 0x0000022DEBB55840>, 'Connection to vestibular.brasilescola.uol.com.br timed out. (connect timeout=None)'))
+https://vestibular.brasilescola.uol.com.br/banco-de-redacoes/21586
+HTTPSConnectionPool(host='vestibular.brasilescola.uol.com.br', port=443): Max retries exceeded with url: /banco-de-redacoes/21586 (Caused by ConnectTimeoutError(<urllib3.connection.HTTPSConnection object at 0x0000022DEBB55570>, 'Connection to vestibular.brasilescola.uol.com.br timed out. (connect timeout=None)'))
+https://vestibular.brasilescola.uol.com.br/banco-de-redacoes/21578
+HTTPSConnectionPool(host='vestibular.brasilescola.uol.com.br', port=443): Max retries exceeded with url: /banco-de-redacoes/21578 (Caused by ConnectTimeoutError(<urllib3.connection.HTTPSConnection object at 0x0000022DEBC65EA0>, 'Connection to vestibular.brasilescola.uol.com.br timed out. (connect timeout=None)'))
+https://vestibular.brasilescola.uol.com.br/banco-de-redacoes/21370
+HTTPSConnectionPool(host='vestibular.brasilescola.uol.com.br', port=443): Max retries exceeded with url: /banco-de-redacoes/21370 (Caused by ConnectTimeoutError(<urllib3.connection.HTTPSConnection object at 0x0000022DEB172590>, 'Connection to vestibular.brasilescola.uol.com.br timed out. (connect timeout=None)'))
+https://vestibular.brasilescola.uol.com.br/banco-de-redacoes/21188
+HTTPSConnectionPool(host='vestibular.brasilescola.uol.com.br', port=443): Max retries exceeded with url: /banco-de-redacoes/21188 (Caused by ConnectTimeoutError(<urllib3.connection.HTTPSConnection object at 0x0000022DEB9B72E0>, 'Connection to vestibular.brasilescola.uol.com.br timed out. (connect timeout=None)'))
+https://vestibular.brasilescola.uol.com.br/banco-de-redacoes/22120
+HTTPSConnectionPool(host='vestibular.brasilescola.uol.com.br', port=443): Max retries exceeded with url: /banco-de-redacoes/22120 (Caused by ConnectTimeoutError(<urllib3.connection.HTTPSConnection object at 0x00000282755F2440>, 'Connection to vestibular.brasilescola.uol.com.br timed out. (connect timeout=None)'))
