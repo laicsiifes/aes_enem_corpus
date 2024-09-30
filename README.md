@@ -1,13 +1,13 @@
 # aes_enem_corpus
 
-#### Descrição:
-
 Diretório raiz para o projeto de Construção e Análise do Corpus gerado a partir do site Brasil Escola
 
 
 ## 1 - Web Scraping
 
-[web_scraping](web_corpus_builder/README.md)
+[Web Scraping](web_corpus_builder/README.md)
 
 
-## 2 - Experimentos
+## 2 - Experimentos com BERT
+
+[Experiments](experiments_bert/README.md)
